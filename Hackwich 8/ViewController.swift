@@ -29,6 +29,8 @@ class ViewController: UIViewController {
         case 0: mylabel.text = "First Segment has been selected"
             
             case 1: mylabel.text = "Second Segment has been selected"
+            
+        case 2: mylabel.text = "Woohoo, this makes sense now"
                
             default:break
         }
